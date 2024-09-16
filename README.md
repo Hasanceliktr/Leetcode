@@ -19,7 +19,7 @@ I am continuously adding new solutions, so be sure to check back regularly. If y
 
 ## Contact
 
-For any questions or feedback, please reach out to me via [your contact information or GitHub profile].
+For any questions or feedback, please reach out to me via https://github.com/Hasanceliktr/.
 
 Happy coding!
 
