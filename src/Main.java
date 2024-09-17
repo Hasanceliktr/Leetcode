@@ -7,6 +7,10 @@ public class Main {
         int sonuc = findMinimum.minimumOperations(dizi);
         System.out.println(sonuc);
 
+        DefanginIpAdress defanginIpAdress = new DefanginIpAdress();
+        String s = defanginIpAdress.defangIPaddr("1.1.1.1");
+        System.out.println(s);
+
     }
 
 }

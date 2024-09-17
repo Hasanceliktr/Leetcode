@@ -16,8 +16,7 @@ public class DefanginIpAdress {
      *
      */
         public String defangIPaddr(String address) {
-            String replacingWord = address.replace(".","[.]");
-            return replacingWord;
+            return address.replace(".","[.]");
         }
     }
 
