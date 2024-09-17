@@ -20,4 +20,4 @@ public class DefanginIpAdress {
             return replacingWord;
         }
     }
-}
+
